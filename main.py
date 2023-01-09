@@ -7,5 +7,3 @@ def printy(text, delay=0.05):
         sys.stdout.flush()
         time.sleep(delay)
     print()
-    
-#Thanks to Mortis666
