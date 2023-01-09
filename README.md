@@ -6,9 +6,9 @@
   <h1><a href="https://github.com/Spideyspidery/AnimPrint">AnimPrint</a> - Python</h1>
 <!-- Labels: -->
   <img src="https://img.shields.io/github/repo-size/TheAlgorithms/Python.svg?label=Repo%20size&style=flat-square" height="20">
-  <a href="https://spideyspidery.github.io/discord.gg/">
+<!--   <a href="https://spideyspidery.github.io/discord.gg/">
     <img src="https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square" height="20" alt="Discord chat">
-  </a>
+  </a> -->
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Made%20Using-Python-blue" height="20" alt="Made Using Python">
   </a>
