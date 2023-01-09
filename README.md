@@ -17,5 +17,3 @@
 </div>
 
 This Module allows you to add a typing animation to your text in your Python Projects!
-
-Thanks to [Mortis666](https://replit.com/@Mortis666)
